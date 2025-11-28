@@ -2,11 +2,8 @@
 <web-app>
     <servlet>
         <servlet-name>GitInput</servlet-name>
-<<<<<<< HEAD
         <jsp-file>/gitinput.jsp</jsp-file>
-=======
         <jsp-file>/gitinpt.jsp</jsp-file>
->>>>>>> 333]
     </servlet>
     <servlet-mapping>
         <servlet-name>GitInput</servlet-name>
