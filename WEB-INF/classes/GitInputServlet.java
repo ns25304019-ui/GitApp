@@ -24,7 +24,8 @@ public class GitInputServlet extends HttpServlet {
     out.println("<title>YOUR NAME</title>");
     out.println("</head>");
     out.println("<body>");
-    out.println("sei:"+sei+"mei:"+mei);
+    out.println("姓:"+sei);
+    out.println("名:"+mei);
     out.println("</body>");
     out.println("</html>");
 
